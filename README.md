@@ -1,4 +1,4 @@
-# aria2-zero - The ultra fast download utility
+# aria2-zero - The ultra fast download utility 
 
 > [origin repo](https://github.com/aria2/aria2)
 
